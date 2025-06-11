@@ -14,3 +14,12 @@ num2 = float(input("Enter second number: "))
 
 total = num1 + num2
 print(f"The sum of {num1} and {num2} is {total}")
+
+total = num1 - num2
+print(f"The subtraction of {num1} and {num2} is {total}")
+
+total = num1 * num2
+print(f"The multiplication of {num1} and {num2} is {total}")
+
+total = num1 / num2
+print(f"The division of {num1} and {num2} is {total}")
